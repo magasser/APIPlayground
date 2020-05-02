@@ -1,0 +1,48 @@
+* {
+    color: lightcyan;
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    background: black;
+}
+
+.centered {
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+}
+
+h1 {
+    margin: 10px 0;
+    font-size: 2rem;
+}
+
+.img {
+    max-width: 100%;
+    height: 800px;
+    margin-top: 20px;
+}
+
+.vid {
+    width: 100%;
+    height: 800px;
+}
+
+.text {
+    margin-top: 20px;
+    line-height: 1.2rem;
+    font-size: 1.2rem;
+}
+
+.justify {
+    text-align: justify;
+}
+
+#date-selector {
+    background: black;
+}
+
+.none {
+    display: none;
+}

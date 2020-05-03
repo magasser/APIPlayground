@@ -7,12 +7,6 @@ body {
     background: black;
 }
 
-.centered {
-    margin: 20px auto;
-    width: 80%;
-    text-align: center;
-}
-
 h1 {
     margin: 10px 0;
     font-size: 2rem;
